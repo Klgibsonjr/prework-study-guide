@@ -13,9 +13,9 @@ N/A
 This project can be used as a great source to store notes about each topic that will be taught throughout this course; like HTML, CSS, Git and JavaScript. In the DevTools console of the project, you will find JavaScript running. This script will provide a list of all the topics and pick one that we can study first. This project will also provide good practice in utilizing Github repos via the command line.
 
 ## Credits
+
 N/A
 
 ## License
 
 MIT License
-
